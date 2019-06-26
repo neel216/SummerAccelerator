@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-Run the code in the ```main.py``` file to view the findings of the project.
+Run the code in ```main.py``` to view the findings of the project.
 
 ## Contributing
 
