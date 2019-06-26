@@ -4,7 +4,7 @@ Summer Accelerator is a week long summer camp hosted by the North Carolina Schoo
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependences for the project.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the dependencies for the project.
 
 ```bash
 pip install -r requirements.txt
